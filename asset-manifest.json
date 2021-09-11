@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mohitya10/Muse-React.git/static/css/main.54a2ea7c.chunk.css",
+    "main.js": "/mohitya10/Muse-React.git/static/js/main.6edd57cd.chunk.js",
+    "main.js.map": "/mohitya10/Muse-React.git/static/js/main.6edd57cd.chunk.js.map",
+    "runtime-main.js": "/mohitya10/Muse-React.git/static/js/runtime-main.9d654d48.js",
+    "runtime-main.js.map": "/mohitya10/Muse-React.git/static/js/runtime-main.9d654d48.js.map",
+    "static/css/2.786ae0dd.chunk.css": "/mohitya10/Muse-React.git/static/css/2.786ae0dd.chunk.css",
+    "static/js/2.c92e58cb.chunk.js": "/mohitya10/Muse-React.git/static/js/2.c92e58cb.chunk.js",
+    "static/js/2.c92e58cb.chunk.js.map": "/mohitya10/Muse-React.git/static/js/2.c92e58cb.chunk.js.map",
+    "static/js/3.4a2a4ad5.chunk.js": "/mohitya10/Muse-React.git/static/js/3.4a2a4ad5.chunk.js",
+    "static/js/3.4a2a4ad5.chunk.js.map": "/mohitya10/Muse-React.git/static/js/3.4a2a4ad5.chunk.js.map",
+    "index.html": "/mohitya10/Muse-React.git/index.html",
+    "static/css/2.786ae0dd.chunk.css.map": "/mohitya10/Muse-React.git/static/css/2.786ae0dd.chunk.css.map",
+    "static/css/main.54a2ea7c.chunk.css.map": "/mohitya10/Muse-React.git/static/css/main.54a2ea7c.chunk.css.map",
+    "static/js/2.c92e58cb.chunk.js.LICENSE.txt": "/mohitya10/Muse-React.git/static/js/2.c92e58cb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d654d48.js",
+    "static/css/2.786ae0dd.chunk.css",
+    "static/js/2.c92e58cb.chunk.js",
+    "static/css/main.54a2ea7c.chunk.css",
+    "static/js/main.6edd57cd.chunk.js"
+  ]
+}
